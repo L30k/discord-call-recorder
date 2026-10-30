@@ -41,6 +41,7 @@ Configuração exata: execute tools/ffmpeg.exe -version.
 
 ## Microsoft .NET
 
-A publicação independente inclui o runtime .NET e seus avisos de licença
-originais, incluindo LICENSE.txt e THIRD-PARTY-NOTICES.txt.
+A publicação independente inclui o runtime .NET. Antes de redistribuir binários,
+inclua também os termos e avisos de licença originais da versão correspondente
+do runtime .NET e Windows Desktop. O repositório inicial distribui apenas fontes.
 System.Numerics.Tensors 9.0.0: https://github.com/dotnet/runtime (MIT).

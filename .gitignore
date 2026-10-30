@@ -3,6 +3,7 @@
 **/obj/
 artifacts/
 tools/*.exe
+tools/ffmpeg-sha256.json
 *.user
 .vs/
 .idea/
